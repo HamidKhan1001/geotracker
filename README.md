@@ -164,6 +164,8 @@ railway up
 ```
 
 ---
+<img width="1600" height="794" alt="image" src="https://github.com/user-attachments/assets/7fec8fcb-12fa-4567-b00d-2340086cc1c1" />
+
 
 ## ⚙️ Environment Variables
 
